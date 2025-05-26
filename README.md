@@ -113,12 +113,6 @@ Query 5:     0.05   0.11   0.18   0.26   0.90
 python evaluate.py
 ```
 
----
-
-This script verifies the fusion of CLIP and GCN features on sample data.
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
